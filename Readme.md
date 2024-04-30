@@ -81,6 +81,8 @@ Activiades realizadas mediante Toolkit design thinking
 **Investigación de campo**   
 **Herramientas:**
 Ficha Grupo, Mapa Empatía, Experience Map, Seis sombreros para pensar, Scope Canvas, DAFO, Desk research
+Realizado en:
+https://app.milanote.com/1RXsmc1HA0O89Q/creando-huella?p=bNmfWuSoCW9
 
 #### Necesidad/oportunidad
 
